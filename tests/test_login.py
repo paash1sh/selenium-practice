@@ -38,3 +38,4 @@ else:
 
 driver.quit()
 # init
+# fix selector
