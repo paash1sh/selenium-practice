@@ -48,3 +48,4 @@ print("checkbox test done")
 driver.quit()
 print("all done!")
 # forms
+# select fix
