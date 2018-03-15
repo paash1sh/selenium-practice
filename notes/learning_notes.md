@@ -24,3 +24,4 @@
 - https://selenium-python.readthedocs.io
 - https://the-internet.herokuapp.com (good practice site)
 # notes
+# notes update
