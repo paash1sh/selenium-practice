@@ -25,3 +25,4 @@ python tests/test_navigation.py
 ## Notes
 
 Still learning, these scripts are pretty basic. Planning to learn about Page Object Model and proper test frameworks next.
+# readme
